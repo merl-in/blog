@@ -1,0 +1,38 @@
+
+ .box {
+     border: 2px solid black;
+     margin: 1px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
+ .box h2 {
+     text-shadow: 5px 5px 6px #aa7d1a;
+ }
+ .box h2:hover {
+    color: #fff;
+    text-shadow: 5px 5px 10px rgba(255, 255, 255, 0.952);
+ }
+.title {
+    text-shadow: 3px 5px 8px #cca1139c;
+}
+
+.jumbotron {
+    margin-top: 10px;
+}
+
+.custom {
+    margin-top: 10px;
+}
+.head {
+    border-bottom: 2px solid lightgrey;
+}
+.menu {
+    
+    border-top: 2px solid lightgrey;
+    text-align: center;
+}
+.main {
+    border-top: 2px solid lightgrey;
+    border-left: 10px solid white;
+    
+}
